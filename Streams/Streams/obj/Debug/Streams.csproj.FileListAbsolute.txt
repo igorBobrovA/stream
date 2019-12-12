@@ -1,0 +1,9 @@
+C:\Users\Сигма-М-1\Desktop\igooooooooor\Streams\Streams\bin\Debug\Streams.exe.config
+C:\Users\Сигма-М-1\Desktop\igooooooooor\Streams\Streams\bin\Debug\Streams.exe
+C:\Users\Сигма-М-1\Desktop\igooooooooor\Streams\Streams\bin\Debug\Streams.pdb
+C:\Users\Сигма-М-1\Desktop\igooooooooor\Streams\Streams\obj\Debug\Streams.csprojAssemblyReference.cache
+C:\Users\Сигма-М-1\Desktop\igooooooooor\Streams\Streams\obj\Debug\Streams.Streams.resources
+C:\Users\Сигма-М-1\Desktop\igooooooooor\Streams\Streams\obj\Debug\Streams.Properties.Resources.resources
+C:\Users\Сигма-М-1\Desktop\igooooooooor\Streams\Streams\obj\Debug\Streams.csproj.GenerateResource.cache
+C:\Users\Сигма-М-1\Desktop\igooooooooor\Streams\Streams\obj\Debug\Streams.exe
+C:\Users\Сигма-М-1\Desktop\igooooooooor\Streams\Streams\obj\Debug\Streams.pdb
